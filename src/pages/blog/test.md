@@ -14,6 +14,10 @@ seo:
       value: lorem-ipsum-21
       keyName: property
       relativeUrl: false
+    - name: 'og:image'
+      value: /images/neat-oak.png
+      keyName: property
+      relativeUrl: true
   type: stackbit_page_meta
 template: post
 image: images/2.png
