@@ -15,10 +15,9 @@ seo:
       keyName: property
       relativeUrl: false
     - name: 'og:image'
-      value: >-
-        http://previews.123rf.com/images/artshock/artshock1210/artshock121000046/15557821-imag-of-water-drops-on-window-and-blue-sky-background.jpg
+      value: /images/1.jpg
       keyName: property
-      relativeUrl: false
+      relativeUrl: true
   type: stackbit_page_meta
 template: post
 image: images/2.png
