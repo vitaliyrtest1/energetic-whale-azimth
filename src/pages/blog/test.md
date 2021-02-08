@@ -16,6 +16,7 @@ seo:
       relativeUrl: false
   type: stackbit_page_meta
 template: post
+image: images/1.png
 ---
 ## Lorem ipsum
 
