@@ -14,11 +14,6 @@ seo:
       value: lorem-ipsum-21
       keyName: property
       relativeUrl: false
-    - name: 'og:image'
-      value: >-
-        https://previews.123rf.com/images/artshock/artshock1210/artshock121000046/15557821-imag-of-water-drops-on-window-and-blue-sky-background.jpg
-      keyName: property
-      relativeUrl: false
   type: stackbit_page_meta
 template: post
 image: images/2.png
