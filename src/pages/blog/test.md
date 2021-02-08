@@ -16,7 +16,7 @@ seo:
       relativeUrl: false
   type: stackbit_page_meta
 template: post
-image: images/4.png
+image: images/famous-coriander.png
 ---
 ## Lorem ipsum
 
