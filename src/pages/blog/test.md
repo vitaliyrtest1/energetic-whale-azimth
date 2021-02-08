@@ -14,10 +14,6 @@ seo:
       value: lorem-ipsum-21
       keyName: property
       relativeUrl: false
-    - name: 'og:image'
-      value: /images/magenta-kangaroo.png
-      keyName: property
-      relativeUrl: false
   type: stackbit_page_meta
 template: post
 image: images/2.png
