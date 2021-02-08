@@ -15,7 +15,7 @@ seo:
       keyName: property
       relativeUrl: false
     - name: 'og:image'
-      value: /images/1.png
+      value: /images/1.jpg
       keyName: property
       relativeUrl: true
   type: stackbit_page_meta
